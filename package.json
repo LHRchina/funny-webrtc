@@ -1,0 +1,14 @@
+{
+  "name": "funny_webrtc",
+  "version": "1.0.0",
+  "dependencies": {
+    "my_dep": "^1.0.0",
+    "another_dep": "~2.2.0"
+  },
+  "devDependencies": {
+    "express": "^4.17.1",
+    "log4js": "^6.3.0",
+    "serve-index": "^1.9.1",
+    "socket.io": "^2.3.0"
+  }
+}
